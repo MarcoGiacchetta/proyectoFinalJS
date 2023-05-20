@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 300,
+      "id": 1,
+      "title": "Nintendo Switch",
+      "thumbnailUrl": "https://fotosuraj.com/19145-thickbox_default/nintendo-switch-super-mario-3d.jpg"
+    },
+    {
+      "precio": 350,
+      "id": 2,
+      "title": "Nintendo Switch Oled",
+      "thumbnailUrl": "https://tiendasigloxxi.es/135915-large_default/console-nintendo-switch-oled-white-de.jpg"
+    },
+    {
+        "precio": 200,
+        "id": 6,
+        "title": "Nintendo Switch Lite",
+        "thumbnailUrl": "https://tiendasigloxxi.es/149552-large_default/nintendo-switch-lite-blue.jpg"
+    },
+    {
+      "precio": 450,
+      "id": 3,
+      "title": "Steamdeck",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51X0aZusUbL._AC_UL600_SR600,600_.jpg"
+    },
+    {
+      "precio": 700,
+      "id": 4,
+      "title": "Asus Rog Ally",
+      "thumbnailUrl": "https://estore.asus.com/media/catalog/product/b/2/b297848c8554beb6c6b20a9c0f411d5b_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=439&width=439&canvas=439:439"
+    },
+    {
+      "precio": 1300,
+      "id": 5,
+      "title": "One Xplayer",
+      "thumbnailUrl": "https://sopiguard.com/cdn/shop/products/Untitled-1_d326980b-6a8c-4e86-aee3-912e5bde3b74.jpg?v=1627291855"
+    }
+  ]
